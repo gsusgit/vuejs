@@ -1,0 +1,24 @@
+h1, h2, h3, h4, h5 {
+    font-family: "Dosis", "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+}
+
+#logo {
+    display: inline-block;
+    font-size: 1.5em;
+    line-height: 40px;
+    color: #273849;
+    font-family: "Dosis", "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+#logo img {
+    vertical-align: middle;
+    margin-right: 6px;
+    width: 40px;
+    height: 40px;
+}
+
+body {
+    font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+}
